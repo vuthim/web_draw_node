@@ -1,0 +1,23 @@
+{
+  "name": "web-draw-mind-map",
+  "version": "1.0.0",
+  "description": "A powerful browser-based diagramming and mind mapping tool similar to Lucidspark",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "mind-map",
+    "diagram",
+    "flowchart",
+    "lucidschart",
+    "canvas",
+    "drawing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
